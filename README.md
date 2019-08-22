@@ -9,4 +9,31 @@ This Learning Path includes content from the following Packt products:
 Selenium WebDriver 3 Practical Guide - Second Edition by Unmesh Gundecha
 Selenium Framework Design in Data-Driven Testing by Carl Cocchiaro
 
+#What you'll learn
+
+Use different mobile and desktop browser platforms with Selenium 3
+Use the Actions API for performing various keyboard and mouse actions
+Design the Selenium Driver Class for local, remote, and third-party grid support
+Build page object classes with the Selenium Page Object Model
+Develop data-driven test classes using the TestNG framework
+Encapsulate data using the JSON protocol
+Build a Selenium Grid for RemoteWebDriver testing
+Build and use utility classes in synchronization, file I/O, reporting and test listener classes
+
+#Software Requirements
+
+Java JDK 1.8
+IntelliJ IDEA 2017.3+
+Selenium WebDriver 3.7.1+ JAR
+Selenium Stand-alone Server 3.7.1+ JAR
+Appium Java Client 5.0.4+ JAR
+Appium Server 1.7.1 JAR for iOS or Linux
+TestNG 6.11 JAR
+ExtentReports 3.1.0 JAR
+Browsers: Google Chrome 62.0, Mozilla Firefox 57.0, Microsoft Internet Explorer 11.0
+Drivers: chromedriver.exe 2.33, geckodriver.exe 0.19.1, IEDriverServer.exe 3.7.1+
+Apple Xcode and iPhone Simulators for iOS
+Google Android SDK and Samsung Galaxy emulators for Linux
+VMware virtual machines
+
 
