@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-selenium/9781838983048)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 ﻿# Learn-Selenium
 The Selenium WebDriver 3.x is an open source API to test both browser and mobile applications. With a solid foundation, you can easily perform end-to-end testing on web and mobile browsers.
 
